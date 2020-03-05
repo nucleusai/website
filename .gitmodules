@@ -1,0 +1,3 @@
+[submodule "themes/lektor-theme-elate"]
+	path = themes/lektor-theme-elate
+	url = https://github.com/nucleusai/lektor-theme-elate.git
