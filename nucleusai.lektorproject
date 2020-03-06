@@ -20,3 +20,6 @@ facebook = "nucleusai"
 twitter = "nucleusai_"
 youtube = ""
 custom_css = ""
+
+[servers.production]
+target = ghpages+https://nucleusai/nucleusai.github.io?cname=nucleusai.net
