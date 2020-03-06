@@ -1,2 +1,22 @@
 [project]
 name = Nucleus AI
+themes = lektor-theme-elate
+url = https://nucleusai.net
+
+[theme_settings]
+author = "Nucleus AI dev team"
+description = ""
+avatar = "/img/avatar.png"
+open_graph = "yes"
+intro_video = "yes"
+work = "yes"
+testimonials = "yes"
+services = "yes"
+about = "yes"
+counters = "yes"
+contact = "yes"
+footer = "yes"
+facebook = "nucleusai"
+twitter = "nucleusai_"
+youtube = ""
+custom_css = ""
