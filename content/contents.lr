@@ -1,0 +1,9 @@
+_model: page
+---
+_template: index.html
+title: Welcome to Nucleus AI!
+---
+body:
+
+This is a basic demo website that shows how to use Lektor for a basic
+website with some pages.
