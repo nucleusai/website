@@ -1,0 +1,26 @@
+_model: member
+---
+name: John Anderson Garcia
+---
+position: CTO
+---
+description: Científico de la computación, con 8 años de experiencia en desarrollo de software, minería de datos y computación de alto rendimiento, liderando el desarrollo de proyectos interdisciplinarios a escala internacional desde la academia y la industria.
+---
+image: https://jagh.io/assets/img/perfil.png
+---
+alt:
+---
+social_networks:
+
+#### social_network ####
+name: link
+----
+url: https://jagh.io/
+#### social_network ####
+name: github
+----
+url: https://github.com/jagh
+#### social_network ####
+name: twitter
+----
+url: https://github.com/jagh

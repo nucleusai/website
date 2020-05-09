@@ -1,0 +1,22 @@
+_model: member
+---
+name: Rafael Laverde
+---
+position: CTO
+---
+description: Ingeniero de sistemas con 5 años de experiencia en la ingeniería de datos y el desarrollo de software, quien ha forjado su alta habilidad técnica como miembro de compañías de innovación y tecnología latinoamericanas con posicionamiento global.
+---
+image: https://rlaverde.me/img/rlaverde.jpg
+---
+alt:
+---
+social_networks:
+
+#### social_network ####
+name: twitter
+----
+url: https://twitter.com/rafa_laverde
+#### social_network ####
+name: github
+----
+url: https://github.com/rlaverde/
