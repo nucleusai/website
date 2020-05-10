@@ -20,7 +20,8 @@ footer = "yes"
 facebook = "nucleusai"
 twitter = "nucleusai_"
 youtube = ""
-custom_css = ""
+custom_css = "css/extra.css"
+logo_header = "/img/logo_text_transparent.png"
 
 [servers.production]
 target = ghpages+https://nucleusai/nucleusai.github.io?cname=nucleusai.net

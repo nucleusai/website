@@ -1,0 +1,11 @@
+.logo-header {
+  padding: 0;
+}
+.logo-header > img {
+  height: 150%;
+}
+@media (max-width: 768px) {
+  .logo-header > img {
+    max-height: 90%;
+  }
+}
