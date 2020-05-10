@@ -1,0 +1,13 @@
+_model: counter
+---
+icon: spinner
+---
+description: Projects in progress
+---
+from: 0
+---
+to: 3
+---
+speed: 5000
+---
+interval: 50
