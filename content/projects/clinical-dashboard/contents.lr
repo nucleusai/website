@@ -3,6 +3,7 @@ _model: project
 title: Clinical Dashboard
 ---
 subtitle:
+Real time dashboard to view large volumes of clinical data and quickly disseminate and interpret the health characteristics associated with the phenotype of each patient.
 ---
 image:
 ---

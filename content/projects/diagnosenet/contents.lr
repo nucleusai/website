@@ -1,8 +1,9 @@
 _model: project
 ---
-title: diagnoseNET
+title: DiagnoseNET
 ---
 subtitle:
+Automatic framework to accelerate and scale deep neural networks on heterogeneous systems applied to medical diagnosis workflows.
 ---
 image:
 ---
