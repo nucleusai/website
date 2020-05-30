@@ -2,9 +2,10 @@ _model: member
 ---
 name: John Anderson Garcia
 ---
-position: CTO
+position: Research Contributor
 ---
-description: Científico de la computación, con 8 años de experiencia en desarrollo de software, minería de datos y computación de alto rendimiento, liderando el desarrollo de proyectos interdisciplinarios a escala internacional desde la academia y la industria.
+description:
+A computer science and bioinformatics researcher, passionate about multi-objective optimization in DL methods and the effective use of HPC systems.
 ---
 image: https://jagh.io/assets/img/perfil.png
 ---

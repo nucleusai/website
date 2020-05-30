@@ -2,11 +2,11 @@ _model: member
 ---
 name: Zayne Milena Roa
 ---
-position:
+position: Research Contributor
 ---
 description: Epidemiologist, researcher, nurse scientist.
 ---
-image: https://ssphplus.ch/assets/images-cache/globalp3hs/roadiaz-zayne.1baed073.jpg
+image: https://avatars1.githubusercontent.com/u/26966067?s=460&u=63455590f5f2b5bc1233ed55ddcea507064d5a16&v=4
 ---
 alt:
 ---
@@ -15,4 +15,8 @@ social_networks:
 #### social_network ####
 name: link
 ----
-url:
+url: https://www.ispm.unibe.ch/about_us/staff/roa_diaz_zayne_milena/index_eng.html
+#### social_network ####
+name: github
+----
+url: https://github.com/zaynemilena
